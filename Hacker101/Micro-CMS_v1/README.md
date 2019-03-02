@@ -1,4 +1,4 @@
-This challenge has 4 differnet flags.
+This challenge has 4 different flags.
 
 Solution of each flag:
 
