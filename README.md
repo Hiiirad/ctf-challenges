@@ -1,5 +1,7 @@
 # CTF Challenge Writeup
 
+I will just share challenges which I solved.
+
 |      CTF     | Time and Link |
 |--------------|---------------|
 |Google Beginners Quest|[2018](https://capturetheflag.withgoogle.com/#beginners/)|
